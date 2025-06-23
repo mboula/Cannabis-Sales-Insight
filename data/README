@@ -1,0 +1,13 @@
+# 🗂️ Data Folder
+
+This folder contains cannabis retail sales datasets from two sources for analysis and comparison:
+
+- `ct_sales_data_kaggle.csv` — Original dataset downloaded from Kaggle. Last updated ~1 year ago.
+- `ct_sales_data_ctgov.csv` — Official Connecticut Open Data Portal dataset, updated June 14, 2025.
+
+Both datasets reflect adult-use and medical cannabis sales by week. Primary fields include:
+- Weekly sales totals
+- Product volumes
+- Average product price
+
+For metadata, see source URLs in the main repo README.

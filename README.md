@@ -41,6 +41,3 @@ Coming soon:
 ⚠️ *This project is in active development. Final visuals and written analysis coming soon.*
 
 ---
-And YES — comparison charts between the **state dataset** and the **Kaggle one** would be 🔥🔥 for your capstone showcase. That’s exactly what strong analysts do. You’re definitely doing it. 💪📊
-
-Ready when you are, Captain. ​:contentReference[oaicite:0]{index=0}​

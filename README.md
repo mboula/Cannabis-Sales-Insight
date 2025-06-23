@@ -1,5 +1,6 @@
 # Cannabis-Sales-Insight
 Real-world cannabis retail sales analysis using Connecticut’s official 2025 dataset. Focused on trend forecasting, market insights, and dashboards.
+---
 # Cannabis Sales Insight — Data Analytics Project
 
 Welcome to **Cannabis Sales Insight**, a real-world data analytics project focused on uncovering trends, performance metrics, and sales forecasting within the cannabis industry.
